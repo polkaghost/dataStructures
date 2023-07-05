@@ -10,7 +10,6 @@ int main()
 {
 	printf("%i\n", numArray[i]);
 }
-
 	return 0;
 }
 
